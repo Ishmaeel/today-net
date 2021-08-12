@@ -18,4 +18,6 @@ Today! C:\Work\reports
 > 2021.08.12 reports
 ```
 
-Tries not to overwrite or mess with existing files or folders. Comes with no guarantees that it will not overwrite or mess with existing files or folders.
+Tries not to overwrite or mess with existing files or folders.
+
+Comes with no guarantees that it will not overwrite or mess with existing files or folders.
